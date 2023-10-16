@@ -10,5 +10,10 @@ body{
 h1{
     font-size: 60px;
     color: rgb(173, 28, 40);
+    text-align: center;
+}
+.r-pic{
+    display: flex;
+    justify-content: center;
 }
 
